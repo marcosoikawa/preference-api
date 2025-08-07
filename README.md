@@ -61,12 +61,6 @@ A API possui as seguintes preferências disponíveis para consulta:
 
 ## Swagger UI
 
-📋 **A documentação interativa Swagger está SEMPRE DISPONÍVEL** em todos os ambientes:
-
-### Desenvolvimento (local):
-- **HTTPS**: `https://localhost:7010/swagger`
-- **HTTP**: `http://localhost:5213/swagger`
-
 ### Produção:
 - **Swagger UI**: `https://seu-dominio.com/swagger`
 - **OpenAPI JSON**: `https://seu-dominio.com/swagger/v1/swagger.json`
